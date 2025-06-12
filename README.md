@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   <h2 style="color:teal; margin-top: -10px;">Data Nerd</h2>
@@ -35,7 +36,10 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
+  
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -78,8 +82,6 @@
   <h2 style="color: teal;">My GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Sharanch3&show_icons=true&theme=graywhite&icon_color=teal&text_color=00CED1&title_color=00CED1&bg_color=2f2f2f&hide_border=false&border_color=444" height="160" alt="GitHub Stats" />
 </div>
-
-
 
 
 
