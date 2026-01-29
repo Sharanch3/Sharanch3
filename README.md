@@ -1,1 +1,160 @@
-# my-profile
+# Hi, I'm Sharanch Mukhia
+
+<div align="center">
+  
+### AI/ML Engineer
+
+[![AI/ML Expert](https://img.shields.io/badge/AI%2FML-Expert-blue?style=for-the-badge&logo=tensorflow)](https://github.com/yourusername)
+[![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge&logo=pytorch)](https://github.com/yourusername)
+[![Data Science](https://img.shields.io/badge/Data-Science-green?style=for-the-badge&logo=pandas)](https://github.com/yourusername)
+[![Research](https://img.shields.io/badge/Research-Development-red?style=for-the-badge&logo=arxiv)](https://github.com/yourusername)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Passionate AI/ML Engineer who loves in designing and deploying production-grade machine learning systems. Specialized in **Machine Learning**, **Data Science** and **Deep Learning**. I transform complex AI research into scalable solutions that drive real-world impact.
+
+- 💡 Interested in **Developing Products**, **Model Optimization**, and **AI Safety**
+- 📫 Reach me at: **saranchmukhia@gmail.com**
+- ⚡ Fun fact: I started my journey with Ms Excel. 
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 💻 Core ML/AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🦜_LangGraph-2E8B57?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🤗 LLMs & Transformers
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Groq Cloud](https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge)
+
+### ☁️ MLOps & Deployment
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangSmith](https://img.shields.io/badge/🦜_LangSmith-1C3C3C?style=for-the-badge)
+
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/📈_Seaborn-3776AB?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 🛠️ Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Custom LLM Fine-tuning Pipeline](https://github.com/yourusername/llm-finetuning)
+End-to-end pipeline for fine-tuning large language models on domain-specific data with PEFT techniques and distributed training.
+
+**Tech Stack:** `PyTorch` `Transformers` `LoRA` `QLoRA` `DeepSpeed` `Weights & Biases`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/llm-finetuning)
+![Stars](https://img.shields.io/github/stars/yourusername/llm-finetuning?style=social)
+
+---
+
+### 👁️ [Real-time Object Detection System](https://github.com/yourusername/realtime-detection)
+Production-ready object detection system processing 60+ FPS with custom-trained YOLOv8 models and edge deployment.
+
+**Tech Stack:** `Computer Vision` `YOLOv8` `TensorRT` `ONNX` `OpenCV`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/realtime-detection)
+![Stars](https://img.shields.io/github/stars/yourusername/realtime-detection?style=social)
+
+---
+
+### 💬 [RAG-based Document Assistant](https://github.com/yourusername/rag-assistant)
+Intelligent document Q&A system using retrieval-augmented generation with vector databases and semantic search.
+
+**Tech Stack:** `LangChain` `RAG` `ChromaDB` `FastAPI` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/rag-assistant)
+![Stars](https://img.shields.io/github/stars/yourusername/rag-assistant?style=social)
+
+---
+
+### 🎯 [Recommendation Engine](https://github.com/yourusername/recsys-engine)
+Scalable recommendation system combining collaborative filtering with deep learning for personalized content discovery.
+
+**Tech Stack:** `RecSys` `TensorFlow` `Redis` `A/B Testing` `Apache Kafka`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/recsys-engine)
+![Stars](https://img.shields.io/github/stars/yourusername/recsys-engine?style=social)
+
+---
+
+### 📈 [Time Series Forecasting Suite](https://github.com/yourusername/timeseries-forecasting)
+Advanced forecasting models using transformers and LSTMs for multi-horizon predictions with uncertainty quantification.
+
+**Tech Stack:** `Time Series` `Prophet` `LSTM` `Transformers` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/timeseries-forecasting)
+![Stars](https://img.shields.io/github/stars/yourusername/timeseries-forecasting?style=social)
+
+---
+
+### 🧪 [ML Experiment Tracker](https://github.com/yourusername/mlops-tracker)
+Custom MLOps platform for experiment tracking, model versioning, and automated deployment with CI/CD integration.
+
+**Tech Stack:** `MLOps` `Docker` `PostgreSQL` `GitHub Actions` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/mlops-tracker)
+![Stars](https://img.shields.io/github/stars/yourusername/mlops-tracker?style=social)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 [Fine-tuning Large Language Models: A Practical Guide](https://yourblog.com/post1)
+- 🚀 [Building Production-Ready ML Pipelines with MLOps](https://yourblog.com/post2)
+- 👁️ [Real-time Object Detection: From Research to Production](https://yourblog.com/post3)
+- 💡 [RAG vs Fine-tuning: When to Use Which?](https://yourblog.com/post4)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanch-mukhia-633b7830a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saranchmukhia@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Sharanch-Mukhia)
+
+
+</div>
+
+---
+
+## 💼 Open to Opportunities
+
+I'm always interested in collaborating on innovative AI projects, research opportunities, and consulting engagements. Feel free to reach out!
+
+---
+
+<div align="center">
+
+### 💡 "The best way to predict the future is to invent it." - Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+
+
+</div>
