@@ -1,5 +1,12 @@
 # Hi, I'm Sharanch Mukhia
 
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=my-profile&color=blueviolet&style=for-the-badge)
+
+
+</div>
+
 <div align="center">
   
 ### AI/ML Engineer
@@ -59,13 +66,13 @@ Passionate AI/ML Engineer who loves in designing and deploying production-grade 
 
 ## 🚀 Featured Projects
 
-### 🤖 [Custom LLM Fine-tuning Pipeline](https://github.com/yourusername/llm-finetuning)
-End-to-end pipeline for fine-tuning large language models on domain-specific data with PEFT techniques and distributed training.
+### 🤖 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
+End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
 
-**Tech Stack:** `PyTorch` `Transformers` `LoRA` `QLoRA` `DeepSpeed` `Weights & Biases`
+**Tech Stack:** `Python` `Langchain` `Chromadb` `OpenAI` `Streamlit`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/llm-finetuning)
-![Stars](https://img.shields.io/github/stars/yourusername/llm-finetuning?style=social)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/TubeRAG)
+![Stars](https://img.shields.io/github/stars/Sharanch3/TubeRAG?style=social)
 
 ---
 
@@ -79,45 +86,6 @@ Production-ready object detection system processing 60+ FPS with custom-trained 
 
 ---
 
-### 💬 [RAG-based Document Assistant](https://github.com/yourusername/rag-assistant)
-Intelligent document Q&A system using retrieval-augmented generation with vector databases and semantic search.
-
-**Tech Stack:** `LangChain` `RAG` `ChromaDB` `FastAPI` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/rag-assistant)
-![Stars](https://img.shields.io/github/stars/yourusername/rag-assistant?style=social)
-
----
-
-### 🎯 [Recommendation Engine](https://github.com/yourusername/recsys-engine)
-Scalable recommendation system combining collaborative filtering with deep learning for personalized content discovery.
-
-**Tech Stack:** `RecSys` `TensorFlow` `Redis` `A/B Testing` `Apache Kafka`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/recsys-engine)
-![Stars](https://img.shields.io/github/stars/yourusername/recsys-engine?style=social)
-
----
-
-### 📈 [Time Series Forecasting Suite](https://github.com/yourusername/timeseries-forecasting)
-Advanced forecasting models using transformers and LSTMs for multi-horizon predictions with uncertainty quantification.
-
-**Tech Stack:** `Time Series` `Prophet` `LSTM` `Transformers` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/timeseries-forecasting)
-![Stars](https://img.shields.io/github/stars/yourusername/timeseries-forecasting?style=social)
-
----
-
-### 🧪 [ML Experiment Tracker](https://github.com/yourusername/mlops-tracker)
-Custom MLOps platform for experiment tracking, model versioning, and automated deployment with CI/CD integration.
-
-**Tech Stack:** `MLOps` `Docker` `PostgreSQL` `GitHub Actions` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/mlops-tracker)
-![Stars](https://img.shields.io/github/stars/yourusername/mlops-tracker?style=social)
-
----
 
 ## 📝 Latest Blog Posts
 
@@ -148,13 +116,5 @@ Custom MLOps platform for experiment tracking, model versioning, and automated d
 
 I'm always interested in collaborating on innovative AI projects, research opportunities, and consulting engagements. Feel free to reach out!
 
----
-
-<div align="center">
-
-### 💡 "The best way to predict the future is to invent it." - Alan Kay
-
-![Profile Views](https://komarev.com/ghpvc/?username=my-profile&color=blueviolet&style=for-the-badge)
 
 
-</div>
