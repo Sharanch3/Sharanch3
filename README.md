@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## 📝 About Me
 
 Passionate AI/ML Engineer who loves in designing and deploying production-grade machine learning systems. Specialized in **Machine Learning**, **Data Science** and **Deep Learning**. I transform complex AI research into scalable solutions that drive real-world impact.
 
@@ -154,7 +154,7 @@ I'm always interested in collaborating on innovative AI projects, research oppor
 
 ### 💡 "The best way to predict the future is to invent it." - Alan Kay
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=my-profile&color=blueviolet&style=for-the-badge)
 
 
 </div>
