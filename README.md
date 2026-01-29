@@ -64,7 +64,7 @@ Passionate AI/ML Engineer who loves in designing and deploying production-grade 
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Featured Projects
 
 ### 🤖 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
 End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
