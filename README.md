@@ -11,7 +11,7 @@
   
 ### AI/ML Engineer
 
-[![AI/ML Expert](https://img.shields.io/badge/AI%2FML-Expert-blue?style=for-the-badge&logo=tensorflow)](https://github.com/yourusername)
+[![AI/ML Nerd](https://img.shields.io/badge/AI%2FML-Expert-blue?style=for-the-badge&logo=tensorflow)](https://github.com/yourusername)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge&logo=pytorch)](https://github.com/yourusername)
 [![Data Science](https://img.shields.io/badge/Data-Science-green?style=for-the-badge&logo=pandas)](https://github.com/yourusername)
 [![Research](https://img.shields.io/badge/Research-Development-red?style=for-the-badge&logo=arxiv)](https://github.com/yourusername)
