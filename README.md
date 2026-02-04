@@ -76,13 +76,13 @@ End-to-end RAG pipeline that extracts transcripts from YouTube videos and enable
 
 ---
 
-### 👁️ [Real-time Object Detection System](https://github.com/yourusername/realtime-detection)
-Production-ready object detection system processing 60+ FPS with custom-trained YOLOv8 models and edge deployment.
+### 👁️ [E-commerce chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
+Production-ready E-commerce Chatbot that handels the natural sql like prompts and answers the FAQS..
 
-**Tech Stack:** `Computer Vision` `YOLOv8` `TensorRT` `ONNX` `OpenCV`
+**Tech Stack:** `Python` `Chromadb` `Semantic router`  `Sqlite` `Groq` `Streamlit`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/yourusername/realtime-detection)
-![Stars](https://img.shields.io/github/stars/yourusername/realtime-detection?style=social)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/E-commerce-Chatbot)
+![Stars](https://img.shields.io/github/stars/Sharanch3/E-commerce-Chatbot?style=social)
 
 ---
 
