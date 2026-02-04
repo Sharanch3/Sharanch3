@@ -49,7 +49,7 @@ Passionate AI/ML Engineer who loves in designing and deploying production-grade 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangSmith](https://img.shields.io/badge/🦜_LangSmith-1C3C3C?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/⚒️_LangSmith-1C3C3C?style=for-the-badge)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
