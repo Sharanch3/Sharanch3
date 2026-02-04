@@ -66,7 +66,7 @@ Passionate AI/ML Engineer who loves in designing and deploying production-grade 
 
 ## 🌐 Featured Projects
 
-### 🤖 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
+### 📹 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
 End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
 
 **Tech Stack:** `Python` `Langchain` `Chromadb` `OpenAI` `Streamlit`
@@ -76,7 +76,7 @@ End-to-end RAG pipeline that extracts transcripts from YouTube videos and enable
 
 ---
 
-### 👁️ [E-commerce chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
+### 🤖 [E-commerce Chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
 Production-ready E-commerce Chatbot that handels the natural sql like prompts and answers the FAQS..
 
 **Tech Stack:** `Python` `Chromadb` `Semantic router`  `Sqlite` `Groq` `Streamlit`
