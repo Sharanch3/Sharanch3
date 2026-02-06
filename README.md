@@ -66,6 +66,17 @@ Passionate AI/ML Engineer who loves in designing and deploying production-grade 
 
 ## 🌐 Featured Projects
 
+### 🤖 [AI-Powered Expense Tracking System](https://github.com/Sharanch3/Expense-Tracker-mcp)
+In the age of AI, tracking expenses shouldn’t feel like manual data entry instead leverage AI.
+
+**Tech Stack**  `Python` `FastMCP` `FastAPI` `SQLAlchemy` `Pydantic` `ORM` `Claude-Desktop` 
+
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/Expense-Tracker-mcp)
+![Stars](https://img.shields.io/github/stars/Sharanch3/Expense-Tracker-mcp?style=social)
+
+---
+
 ### 📹 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
 End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
 
