@@ -9,7 +9,7 @@
 
 <div align="center">
   
-### AI/ML Engineer
+### Entry Level AI/ML Engineer
 
 [![AI/ML Nerd](https://img.shields.io/badge/AI%2FML-Nerd-blue?style=for-the-badge&logo=tensorflow)](https://github.com/yourusername)
 [![Deep Learning](https://img.shields.io/badge/Deep-Learning-orange?style=for-the-badge&logo=pytorch)](https://github.com/yourusername)
