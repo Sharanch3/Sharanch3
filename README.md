@@ -1,11 +1,12 @@
-# 👋 Hi! I'm Sharanch Mukhia
-
 <div align="right">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=my-profile&color=blueviolet&style=for-the-badge)
 
 
 </div>
+
+# Hi! I'm Sharanch Mukhia
+
 
 <div align="center">
   
