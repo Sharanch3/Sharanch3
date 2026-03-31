@@ -75,7 +75,16 @@ An interactive AI chatbot built using LangGraph that supports real-time streamin
 ![Stars](https://img.shields.io/github/stars/Sharanch3/stateful-chatbot?style=social)
 
 ---
+### 🎭 [DeepFake-Classifier](https://github.com/Sharanch3/Deepfake-Classifier)
+An AI-powered web application that detects whether an image is real or AI-generated using a fine-tuned ResNet-50 model. It leverages transfer learning to identify subtle deepfake artifacts, enabling fast and reliable image verification at scale.
 
+**Tech Stack**  `Pytorch` `Torchvision` `Matplotlib` `Python` `Streamlit` 
+
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/Deepfake-Classifier)
+![Stars](https://img.shields.io/github/stars/Sharanch3/stateful-chatbot?style=social)
+
+---
 ### 🤖 [AI-Powered Expense Tracking System](https://github.com/Sharanch3/Expense-Tracker-mcp)
 In the age of AI, tracking expenses shouldn’t feel like manual data entry instead leverage AI.
 
