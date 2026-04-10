@@ -21,7 +21,7 @@
 
 ## 📝 About Me
 
-Passionate AI/ML Engineer who loves in designing and deploying production-grade machine learning systems. Specialized in **Machine Learning**, **Data Science** and **Deep Learning**. I transform complex AI research into scalable solutions that drive real-world impact.
+Passionate AI/ML Engineer who loves in designing and deploying production-grade machine learning systems. Specialized in **Machine Learning**, and **Deep Learning**. I transform complex AI research into scalable solutions that drive real-world impact.
 
 - 💡 Interested in **Developing Products**, **Model Optimization**, and **AI Safety**
 - 📫 Reach me at: **saranchmukhia@gmail.com**
