@@ -141,8 +141,7 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 ---
 
 ## 💼 Open to Opportunities
-
-I'm always interested in collaborating on innovative AI projects, research opportunities, and consulting engagements. Feel free to reach out!
+I actively collaborate on high-impact AI projects, research initiatives, and strategic consulting engagements. If you're building something meaningful or pushing the boundaries of innovation, let’s connect and create real value together.
 
 
 
