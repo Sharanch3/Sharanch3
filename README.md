@@ -132,8 +132,10 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 
 <div align="center">
 
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranchmukhia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanch-mukhia-633b7830a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Sharanch-Mukhia)
+
 
 
 </div>
