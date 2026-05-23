@@ -23,7 +23,7 @@
 
 I'm passionate AI/ML Engineer who loves in designing and deploying production-grade intelligent systems. Specialized in **Machine Learning** and **Deep Learning**, I transform AI research into scalable solutions that drive real-world impact.
 
-- 💡 Interested in **Developing Products**, **Model Optimization**, and **AI Safety**
+- 💡 Interested in **Developing Products**, **AI Safety**, and **Model Explainability**, 
 - 📫 Reach me at: **saranchmukhia@gmail.com**
 - ⚡ Fun fact: I started my journey with Ms Excel. 
 
