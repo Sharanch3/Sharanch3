@@ -38,7 +38,7 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🦜_LangGraph-2E8B57?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge)
 
 
 ### 🤗 LLMs & Transformers
