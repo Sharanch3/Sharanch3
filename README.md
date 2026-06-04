@@ -67,10 +67,10 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 
 ## 🌐 Featured Projects
 
-### 🤖 [Stateful-Chatbot](https://github.com/Sharanch3/stateful-chatbot)
-An interactive AI chatbot built using LangGraph that supports real-time streaming, persistent memory, tool calling, resumable multi-threaded conversations, and full observability via LangSmith — all wrapped in a clean Streamlit UI.
+### 🤖 [MemGraph](https://github.com/Sharanch3/MemGraph)
+A production-ready, Stateful Agentic AI Assistant featuring short-term memory, long-term memory, automatic conversation summarization, multi-thread chat history, tool use, and persistent storage.
 
-**Tech Stack**  `Python` `Langchain` `Langgraph` `Langsmith` `Streamlit` `SQLite` `GROQ` 
+**Tech Stack**  `Python` `LangGraph` `LangChain` `LangSmith` `Streamlit` `PostgesSQL` `GROQ API`  
 
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/stateful-chatbot)
