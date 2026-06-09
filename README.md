@@ -123,7 +123,7 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 
 <!-- BLOG-POST-LIST:START -->
 - 💡[RAG - The solution to core bottlenecks of LLMs](https://sharanch-ai.blogspot.com/2026/05/rag-solution-to-core-bottlenecks-of.html)
-- 🤖 [Deep-Thinking](https://sharanch-ai.blogspot.com/2026/06/the-algorithm-that-is-quietly-eroding.html)
+- 🧠 [Deep-Thinking](https://sharanch-ai.blogspot.com/2026/06/the-algorithm-that-is-quietly-eroding.html)
 - 🚀 [Building Production-Ready ML Pipelines with MLOps](https://yourblog.com/post2)
 - 👁️ [Real-time Object Detection: From Research to Production](https://yourblog.com/post3)
   
