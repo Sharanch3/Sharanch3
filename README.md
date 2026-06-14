@@ -122,9 +122,10 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- 🤖 [Agentic RAG - The Evolution of RAG Architectures](https://sharanch-ai.blogspot.com/2026/06/agentic-rag-evolution-of-rag.html)
 - 📝 [RAG - The solution to core bottlenecks of LLMs](https://sharanch-ai.blogspot.com/2026/05/rag-solution-to-core-bottlenecks-of.html)
 - 🧠 [Deep-Thinking](https://sharanch-ai.blogspot.com/2026/06/the-algorithm-that-is-quietly-eroding.html)
-- 🚀 [Building Production-Ready ML Pipelines with MLOps](https://yourblog.com/post2)
   
   
 <!-- BLOG-POST-LIST:END -->
