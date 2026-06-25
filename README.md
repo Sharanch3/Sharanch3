@@ -98,7 +98,7 @@ End-to-end RAG pipeline that extracts transcripts from YouTube videos and enable
 
 ---
 
-### 🛒` [E-commerce Chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
+### 🛒 [E-commerce Chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
 Production-ready E-commerce Chatbot that handels the natural sql like prompts and answers the FAQS..
 
 **Tech Stack:** `Python` `Chromadb` `Semantic router`  `Sqlite` `Groq` `Streamlit`
