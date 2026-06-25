@@ -98,12 +98,12 @@ In the age of AI, tracking expenses shouldn’t feel like manual data entry inst
 
 ---
 
-### 📹 [End-to-end RAG Pipeline](https://github.com/Sharanch3/TubeRAG)
+### 📹 [TubeRAG Assistant](https://github.com/Sharanch3/TubeRAG-Assistant)
 End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
 
 **Tech Stack:** `Python` `Langchain` `Chromadb` `OpenAI` `Streamlit` `Youtube-Transcript API`
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/TubeRAG)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/TubeRAG-Assistant)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/TubeRAG?style=social)
 
 ---
