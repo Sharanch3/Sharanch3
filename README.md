@@ -77,7 +77,7 @@ A production-ready, Stateful Agentic AI Assistant featuring short-term memory, l
 ![Stars](https://img.shields.io/github/stars/Sharanch3/MemGraph?style=social)
 
 ---
-### 🎭 [DeepFake-Classifier](https://github.com/Sharanch3/Deepfake-Classifier)
+### 🎭 [DeepFake Classifier](https://github.com/Sharanch3/Deepfake-Classifier)
 An AI-powered web application that detects whether an image is real or AI-generated using a fine-tuned ResNet-50 model. It leverages transfer learning to identify subtle deepfake artifacts, enabling fast and reliable image verification at scale.
 
 **Tech Stack**  `Pytorch` `Torchvision` `Matplotlib` `Python` `Streamlit` 
