@@ -72,6 +72,7 @@ HybridRAG: Production-Ready Stateful Document Intelligence System with Hybrid in
 
 **Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
 
+---
 ### 🤖 [MemGraph](https://github.com/Sharanch3/MemGraph)
 A production-ready, Stateful Agentic AI Assistant featuring short-term memory, long-term memory, automatic conversation summarization, multi-thread chat history, tool use, and persistent storage.
 
