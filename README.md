@@ -67,6 +67,11 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 
 ## 🌐 Featured Projects
 
+### 📜 [HybridRAG](https://github.com/Sharanch3/HybridRAG)
+HybridRAG: Production-Ready Stateful Document Intelligence System with Hybrid information retrieval.
+
+**Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
+
 ### 🤖 [MemGraph](https://github.com/Sharanch3/MemGraph)
 A production-ready, Stateful Agentic AI Assistant featuring short-term memory, long-term memory, automatic conversation summarization, multi-thread chat history, tool use, and persistent storage.
 
