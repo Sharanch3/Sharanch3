@@ -68,7 +68,7 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 ## 🌐 Featured Projects
 
 ### 📜 [HybridRAG](https://github.com/Sharanch3/HybridRAG)
-HybridRAG: Production-Ready Stateful Document Intelligence System with Hybrid information retrieval build with LangGraph.
+HybridRAG: Production-Ready Stateful Document Intelligence System build with LangGraph that leverages Hybrid Information Retrieval.
 
 **Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
 
