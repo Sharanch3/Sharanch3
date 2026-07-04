@@ -67,16 +67,6 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 
 ## 🌐 Featured Projects
 
-### 📜 [HybridRAG](https://github.com/Sharanch3/HybridRAG)
-HybridRAG: Production-Ready Stateful Document Intelligence System build with LangGraph that leverages Hybrid Information Retrieval.
-
-**Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
-
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/HybridRAG)
-![Stars](https://img.shields.io/github/stars/Sharanch3/HybridRAG?style=social)
-
----
 ### 🤖 [MemGraph](https://github.com/Sharanch3/MemGraph)
 A production-ready, Stateful Agentic AI Assistant featuring short-term memory, long-term memory, automatic conversation summarization, multi-thread chat history, tool use, and persistent storage.
 
@@ -85,6 +75,17 @@ A production-ready, Stateful Agentic AI Assistant featuring short-term memory, l
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/MemGraph)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/MemGraph?style=social)
+
+---
+
+### 📜 [HybridRAG](https://github.com/Sharanch3/HybridRAG)
+HybridRAG: Production-Ready Stateful Document Intelligence System build with LangGraph that leverages Hybrid Information Retrieval.
+
+**Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
+
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/HybridRAG)
+![Stars](https://img.shields.io/github/stars/Sharanch3/HybridRAG?style=social)
 
 ---
 ### 🎭 [DeepFake Classifier](https://github.com/Sharanch3/Deepfake-Classifier)
