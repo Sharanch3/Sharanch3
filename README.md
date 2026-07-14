@@ -2,11 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=my-profile&color=blueviolet&style=for-the-badge)
 
-
 </div>
 
-# Hello there! Sharanch here</>
-
+# Hello there! Sharanch here 👋
 
 <div align="center">
   
@@ -21,47 +19,40 @@
 
 ## 📝 About Me
 
-I'm passionate AI/ML Engineer who loves in designing and deploying production-grade intelligent systems. Specialized in **Machine Learning**,  **Deep Learning** and **Agentic System**, I transform AI research into scalable solutions that drive real-world impact.
+I'm a passionate AI/ML Engineer who loves designing and deploying production-grade intelligent systems. Specialized in **Machine Learning**, **Deep Learning**, and **Agentic Systems**, I transform AI research into scalable solutions that drive real-world impact.
 
-- 💡 Interested in **Engineering Intelligent Systems**, **AI Safety**, and **Research Paper**.
+- 💡 Interested in **Engineering Intelligent Systems**, **AI Safety**, and **Research Papers**.
 - 📫 Reach me at: **saranchmukhia@gmail.com**
-- ⚡ Fun fact: I started my journey with Ms Excel. 
+- ⚡ Fun fact: I started my journey with MS Excel.
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
-### 💻 Core ML/AI Frameworks
+### Programming Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
+### Core AI/MLFrameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=7FC8FF)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=7FC8FF)
 
-
-### 🤗 LLMs & Transformers
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq Cloud](https://img.shields.io/badge/Groq_Cloud-F55036?style=for-the-badge)
-
-### ☁️ MLOps & Deployment
+### MLOps & Deployment
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangSmith](https://img.shields.io/badge/⚒️_LangSmith-1C3C3C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Data & Analytics
+### Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/📊_Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/📈_Seaborn-3776AB?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-
-### 🛠️ Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -70,8 +61,7 @@ I'm passionate AI/ML Engineer who loves in designing and deploying production-gr
 ### 🤖 [MemGraph](https://github.com/Sharanch3/MemGraph)
 A production-ready, Stateful Agentic AI Assistant featuring short-term memory, long-term memory, automatic conversation summarization, multi-thread chat history, tool use, and persistent storage.
 
-**Tech Stack**  `Python` `LangGraph` `LangChain` `LangSmith` `PostgesSQL` `GROQ API` `Streamlit`  
-
+**Tech Stack** `Python` `LangGraph` `LangChain` `LangSmith` `PostgreSQL` `GROQ API` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/MemGraph)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/MemGraph?style=social)
@@ -79,20 +69,19 @@ A production-ready, Stateful Agentic AI Assistant featuring short-term memory, l
 ---
 
 ### 📜 [HybridRAG](https://github.com/Sharanch3/HybridRAG)
-HybridRAG: Production-Ready Stateful Document Intelligence System build with LangGraph that leverages Hybrid Information Retrieval.
+Production-ready, stateful document intelligence system built with LangGraph that leverages hybrid information retrieval.
 
-**Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB`  `Streamlit`
-
+**Tech Stack** `Python` `LangGraph` `LangChain` `SQLite` `ChromaDB` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/HybridRAG)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/HybridRAG?style=social)
 
 ---
+
 ### 🎭 [DeepFake Classifier](https://github.com/Sharanch3/Deepfake-Classifier)
 An AI-powered web application that detects whether an image is real or AI-generated using a fine-tuned ResNet-50 model. It leverages transfer learning to identify subtle deepfake artifacts, enabling fast and reliable image verification at scale.
 
-**Tech Stack**  `Pytorch` `Torchvision` `Matplotlib` `Python` `Streamlit` 
-
+**Tech Stack** `PyTorch` `Torchvision` `Matplotlib` `Python` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/Deepfake-Classifier)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/stateful-chatbot?style=social)
@@ -102,7 +91,7 @@ An AI-powered web application that detects whether an image is real or AI-genera
 ### 📹 [TubeRAG Assistant](https://github.com/Sharanch3/TubeRAG-Assistant)
 End-to-end RAG pipeline that extracts transcripts from YouTube videos and enables grounded question-answering.
 
-**Tech Stack:** `Python` `Langchain` `Chromadb` `OpenAI` `Streamlit` `Youtube-Transcript API`
+**Tech Stack** `Python` `LangChain` `ChromaDB` `OpenAI` `Streamlit` `YouTube-Transcript API`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/TubeRAG-Assistant)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/TubeRAG?style=social)
@@ -110,15 +99,14 @@ End-to-end RAG pipeline that extracts transcripts from YouTube videos and enable
 ---
 
 ### 🛒 [E-commerce Chatbot](https://github.com/Sharanch3/E-commerce-Chatbot)
-Production-ready E-commerce Chatbot that handels the natural sql like prompts and answers the FAQS..
+Production-ready e-commerce chatbot that handles natural, SQL-like prompts and answers FAQs.
 
-**Tech Stack:** `Python` `Chromadb` `Semantic router`  `Sqlite` `Groq` `Streamlit`
+**Tech Stack** `Python` `ChromaDB` `Semantic Router` `SQLite` `Groq` `Streamlit`
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Sharanch3/E-commerce-Chatbot)
 ![Stars](https://img.shields.io/github/stars/Sharanch3/E-commerce-Chatbot?style=social)
 
 ---
-
 
 ## 📝 Latest Blog Posts
 
@@ -127,8 +115,7 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 - 🤖 [Agentic RAG - The Evolution of RAG Architectures](https://sharanch-ai.blogspot.com/2026/06/agentic-rag-evolution-of-rag.html)
 - 📝 [RAG - The solution to core bottlenecks of LLMs](https://sharanch-ai.blogspot.com/2026/05/rag-solution-to-core-bottlenecks-of.html)
 - 🧠 [Deep-Thinking](https://sharanch-ai.blogspot.com/2026/06/the-algorithm-that-is-quietly-eroding.html)
-  
-  
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -141,14 +128,9 @@ Production-ready E-commerce Chatbot that handels the natural sql like prompts an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanch-mukhia-633b7830a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://codebasics.io/portfolio/Sharanch-Mukhia)
 
-
-
 </div>
 
 ---
 
 ## 💼 Open to Opportunities
-I actively collaborate on high-impact AI projects, research initiatives, and strategic consulting engagements. If you're building something meaningful or pushing the boundaries of innovation, let’s connect and create real value together.
-
-
-
+I actively collaborate on high-impact AI projects, research initiatives, and strategic consulting engagements. If you're building something meaningful or pushing the boundaries of innovation, let's connect and create real value together.
