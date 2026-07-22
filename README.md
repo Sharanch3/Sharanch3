@@ -59,7 +59,7 @@ I'm a passionate AI/ML Engineer who loves designing and deploying production-gra
 ## 🌐 Featured Projects
 
 ### 📩 [Production MailGuard](https://github.com/Sharanch3/Production-MailGuard-API)
-A production-ready, MailGuard API engineered with robust ML pipeline with  MLOps best practises.
+A production-ready MailGuard API engineered with robust ML pipeline and MLOps best practises.
 
 **Tech Stack** `Python` `DVC` `MLflow/DagsHub` `Docker` `AWS S3/ EC2` `FastAPI` `Spacy` `Scikit-Learn` `XGBoost`
 
