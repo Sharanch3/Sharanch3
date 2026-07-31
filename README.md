@@ -23,7 +23,7 @@ I'm a passionate AI/ML Engineer who loves designing and deploying production-gra
 
 - 💡 Interested in **Engineering Intelligent Systems**, **AI Safety**, and **Research Papers**.
 - 📫 Reach me at: **saranchmukhia@gmail.com**
-- ⚡ Fun fact: I started my journey with MS Excel.
+- ⚡ Fun fact: I started my journey with MS Excel:)
 
 ---
 
